@@ -1,0 +1,9 @@
+simulations/.cmdenv-log
+simulations/results*/
+src/isrss_sim_dbg
+src/msgs/*_m.*
+src/out/
+src/Makefile
+Makefile.vc
+Makefile
+.tkenvrc

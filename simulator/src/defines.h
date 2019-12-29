@@ -1,0 +1,8 @@
+#ifndef DEFINES_H_
+#define DEFINES_H_
+
+#define MSG_KIND_PACKET_DATA 0
+#define MSG_KIND_OFFLOAD_TRIGGER 1
+#define MSG_KIND_PROC_DONE 2
+
+#endif
