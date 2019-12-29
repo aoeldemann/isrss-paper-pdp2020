@@ -128,7 +128,7 @@ void Offload::handle_pkt(Packet *pkt)
     if (m_rx_queue_overload[ht_entry.local_rx_queue]) {
       // core is overloaded. let's see if there is another core that is
       // available and could take over processing
-      int8_t queue = calc_local_rx_queue_not_overloaded(pkt);
+      int16_t queue = calc_local_rx_queue_not_overloaded(pkt);
       if (queue == -1) {
         // we did not find any cores that are not overloaded. in case the packet
         // will be processed locally, let's process it on the same core that
@@ -214,7 +214,7 @@ void Offload::send_pkt_offload(Packet *pkt, int32_t port)
   send(pkt, "out", port);
 }
 
-int8_t Offload::calc_local_rx_queue_not_overloaded(Packet *pkt)
+int16_t Offload::calc_local_rx_queue_not_overloaded(Packet *pkt)
 {
   // initialize empty list, which will hold the rx queues that are served by
   // cores that are not overloaded

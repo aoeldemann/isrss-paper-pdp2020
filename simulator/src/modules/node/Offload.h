@@ -33,7 +33,7 @@ private:
   void handle_offload_trigger(OffloadTriggerMsg *msg);
   void send_pkt_local(Packet *pkt, uint8_t rx_queue);
   void send_pkt_offload(Packet *pkt, int32_t port);
-  int8_t calc_local_rx_queue_not_overloaded(Packet *pkt);
+  int16_t calc_local_rx_queue_not_overloaded(Packet *pkt);
   uint32_t calc_rss_rx_queue(Packet *pkt);
 
   hashtable_entry_t *m_hashtable;
