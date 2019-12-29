@@ -1,0 +1,114 @@
+{
+  "traces": [
+    {
+      "pcap": "/home/user/traces/trace0_0.pcap",
+      "dimensioning_out": "out/lmlmc_trace0_assign0_10/trace0_0_dimensioning",
+      "ipp_out": "out/lmlmc_trace0_assign0_10/trace0_0_ipp_${r}",
+      "info_out": "out/lmlmc_trace0_assign0_10/trace0_0_info"
+    },
+    {
+      "pcap": "/home/user/traces/trace0_1.pcap",
+      "dimensioning_out": "out/lmlmc_trace0_assign0_10/trace0_1_dimensioning",
+      "ipp_out": "out/lmlmc_trace0_assign0_10/trace0_1_ipp_${r}",
+      "info_out": "out/lmlmc_trace0_assign0_10/trace0_1_info"
+    },
+    {
+      "pcap": "/home/user/traces/trace0_2.pcap",
+      "dimensioning_out": "out/lmlmc_trace0_assign0_10/trace0_2_dimensioning",
+      "ipp_out": "out/lmlmc_trace0_assign0_10/trace0_2_ipp_${r}",
+      "info_out": "out/lmlmc_trace0_assign0_10/trace0_2_info"
+    },
+    {
+      "pcap": "/home/user/traces/trace0_3.pcap",
+      "dimensioning_out": "out/lmlmc_trace0_assign0_10/trace0_3_dimensioning",
+      "ipp_out": "out/lmlmc_trace0_assign0_10/trace0_3_ipp_${r}",
+      "info_out": "out/lmlmc_trace0_assign0_10/trace0_3_info"
+    },
+    {
+      "pcap": "/home/user/traces/trace0_4.pcap",
+      "dimensioning_out": "out/lmlmc_trace0_assign0_10/trace0_4_dimensioning",
+      "ipp_out": "out/lmlmc_trace0_assign0_10/trace0_4_ipp_${r}",
+      "info_out": "out/lmlmc_trace0_assign0_10/trace0_4_info"
+    },
+    {
+      "pcap": "/home/user/traces/trace0_5.pcap",
+      "dimensioning_out": "out/lmlmc_trace0_assign0_10/trace0_5_dimensioning",
+      "ipp_out": "out/lmlmc_trace0_assign0_10/trace0_5_ipp_${r}",
+      "info_out": "out/lmlmc_trace0_assign0_10/trace0_5_info"
+    },
+    {
+      "pcap": "/home/user/traces/trace0_6.pcap",
+      "dimensioning_out": "out/lmlmc_trace0_assign0_10/trace0_6_dimensioning",
+      "ipp_out": "out/lmlmc_trace0_assign0_10/trace0_6_ipp_${r}",
+      "info_out": "out/lmlmc_trace0_assign0_10/trace0_6_info"
+    },
+    {
+      "pcap": "/home/user/traces/trace0_7.pcap",
+      "dimensioning_out": "out/lmlmc_trace0_assign0_10/trace0_7_dimensioning",
+      "ipp_out": "out/lmlmc_trace0_assign0_10/trace0_7_ipp_${r}",
+      "info_out": "out/lmlmc_trace0_assign0_10/trace0_7_info"
+    },
+    {
+      "pcap": "/home/user/traces/trace0_8.pcap",
+      "dimensioning_out": "out/lmlmc_trace0_assign0_10/trace0_8_dimensioning",
+      "ipp_out": "out/lmlmc_trace0_assign0_10/trace0_8_ipp_${r}",
+      "info_out": "out/lmlmc_trace0_assign0_10/trace0_8_info"
+    },
+    {
+      "pcap": "/home/user/traces/trace0_9.pcap",
+      "dimensioning_out": "out/lmlmc_trace0_assign0_10/trace0_9_dimensioning",
+      "ipp_out": "out/lmlmc_trace0_assign0_10/trace0_9_ipp_${r}",
+      "info_out": "out/lmlmc_trace0_assign0_10/trace0_9_info"
+    },
+    {
+      "pcap": "/home/user/traces/trace0_10.pcap",
+      "dimensioning_out": "out/lmlmc_trace0_assign0_10/trace0_10_dimensioning",
+      "ipp_out": "out/lmlmc_trace0_assign0_10/trace0_10_ipp_${r}",
+      "info_out": "out/lmlmc_trace0_assign0_10/trace0_10_info"
+    },
+    {
+      "pcap": "/home/user/traces/trace0_11.pcap",
+      "dimensioning_out": "out/lmlmc_trace0_assign0_10/trace0_11_dimensioning",
+      "ipp_out": "out/lmlmc_trace0_assign0_10/trace0_11_ipp_${r}",
+      "info_out": "out/lmlmc_trace0_assign0_10/trace0_11_info"
+    },
+    {
+      "pcap": "/home/user/traces/trace0_12.pcap",
+      "dimensioning_out": "out/lmlmc_trace0_assign0_10/trace0_12_dimensioning",
+      "ipp_out": "out/lmlmc_trace0_assign0_10/trace0_12_ipp_${r}",
+      "info_out": "out/lmlmc_trace0_assign0_10/trace0_12_info"
+    },
+    {
+      "pcap": "/home/user/traces/trace0_13.pcap",
+      "dimensioning_out": "out/lmlmc_trace0_assign0_10/trace0_13_dimensioning",
+      "ipp_out": "out/lmlmc_trace0_assign0_10/trace0_13_ipp_${r}",
+      "info_out": "out/lmlmc_trace0_assign0_10/trace0_13_info"
+    },
+    {
+      "pcap": "/home/user/traces/trace0_14.pcap",
+      "dimensioning_out": "out/lmlmc_trace0_assign0_10/trace0_14_dimensioning",
+      "ipp_out": "out/lmlmc_trace0_assign0_10/trace0_14_ipp_${r}",
+      "info_out": "out/lmlmc_trace0_assign0_10/trace0_14_info"
+    },
+    {
+      "pcap": "/home/user/traces/trace0_15.pcap",
+      "dimensioning_out": "out/lmlmc_trace0_assign0_10/trace0_15_dimensioning",
+      "ipp_out": "out/lmlmc_trace0_assign0_10/trace0_15_ipp_${r}",
+      "info_out": "out/lmlmc_trace0_assign0_10/trace0_15_info"
+    }
+  ],
+  "actions": [
+    {
+      "ipp_base": 4493,
+      "ipp_payload": 0,
+      "share": 0.9
+    },
+    {
+      "ipp_base": 433,
+      "ipp_payload": 11,
+      "share": 0.1
+    }
+  ],
+  "n_runs": 20,
+  "max_err": 0.0001
+}
